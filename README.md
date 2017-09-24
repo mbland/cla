@@ -1,6 +1,7 @@
 # Contributor License Agreement
 
-This agreement is adapted from [GitHub's Contributor License Agreement][gh-cla].
+*Please complete the **[electronic signature form][cla-form]** to signify your
+agreement to the terms below.*
 
 The following terms are used throughout this agreement:
 
@@ -56,15 +57,10 @@ identified the source of the contribution and any license or other restriction
 (like related patents, trademarks, and license agreements) of which you are
 personally aware.
 
-## Agreement
+## Attribution
 
-Please submit the [CLA agreement form][cla-form] to officially signify your
-agreement to the terms above.
+This agreement is adapted from [GitHub's Contributor License Agreement][gh-cla],
+version 298f3afd, updated August 9, 2017.
 
-## Update history
-
-* 2017-09-23: v1.0.0 based on [GitHub CLA][gh-cla] version 298f3afd updated
-  August 9, 2017
-
-[gh-cla]:   https://cla.github.com/agreement
 [cla-form]: https://goo.gl/forms/eMxnYb7DNZjcCrgi1
+[gh-cla]:   https://cla.github.com/agreement
